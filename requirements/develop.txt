@@ -1,0 +1,4 @@
+-r base.txt
+django-celery-beat==2.7.0
+setuptools==75.1.0
+firebase_admin==6.5.0
