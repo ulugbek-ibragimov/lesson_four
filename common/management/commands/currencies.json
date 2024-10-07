@@ -1,0 +1,1242 @@
+[
+  {
+    "code": "AFN",
+    "name": "Afghani",
+    "symbol": "؋",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "af"
+  },
+  {
+    "code": "ALL",
+    "name": "Lek",
+    "symbol": "Lek",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "al"
+  },
+  {
+    "code": "DZD",
+    "name": "Algerian Dinar",
+    "symbol": "د.ج",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "dz"
+  },
+  {
+    "code": "AOA",
+    "name": "Kwanza",
+    "symbol": "Kz",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ao"
+  },
+  {
+    "code": "ARS",
+    "name": "Argentine Peso",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ar"
+  },
+  {
+    "code": "AMD",
+    "name": "Dram",
+    "symbol": "֏",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "am"
+  },
+  {
+    "code": "AWG",
+    "name": "Aruban Florin",
+    "symbol": "ƒ",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "aw"
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "au"
+  },
+  {
+    "code": "AZN",
+    "name": "Azerbaijani Manat",
+    "symbol": "ман",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "az"
+  },
+  {
+    "code": "BAM",
+    "name": "Convertible Mark",
+    "symbol": "KM",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ba"
+  },
+  {
+    "code": "BBD",
+    "name": "Barbadian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bb"
+  },
+  {
+    "code": "BDT",
+    "name": "Taka",
+    "symbol": "৳",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bd"
+  },
+  {
+    "code": "BGN",
+    "name": "Bulgarian Lev",
+    "symbol": "лв",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bg"
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "symbol": "د.ب",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bh"
+  },
+  {
+    "code": "BIF",
+    "name": "Burundian Franc",
+    "symbol": "FBu",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bi"
+  },
+  {
+    "code": "BMD",
+    "name": "Bermudian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bm"
+  },
+  {
+    "code": "BND",
+    "name": "Brunei Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bn"
+  },
+  {
+    "code": "BOB",
+    "name": "Bolivian Boliviano",
+    "symbol": "Bs",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bo"
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "symbol": "R$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "br"
+  },
+  {
+    "code": "BSD",
+    "name": "Bahamian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bs"
+  },
+  {
+    "code": "BTN",
+    "name": "Ngultrum",
+    "symbol": "Nu.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bt"
+  },
+  {
+    "code": "BWP",
+    "name": "Pula",
+    "symbol": "P",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bw"
+  },
+  {
+    "code": "BYN",
+    "name": "Belarusian Ruble",
+    "symbol": "Br",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "by"
+  },
+  {
+    "code": "BZD",
+    "name": "Belize Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bz"
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ca"
+  },
+  {
+    "code": "CDF",
+    "name": "Congolese Franc",
+    "symbol": "FC",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cd"
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "symbol": "CHF",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ch"
+  },
+  {
+    "code": "CLP",
+    "name": "Chilean Peso",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cl"
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "symbol": "¥",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cn"
+  },
+  {
+    "code": "COP",
+    "name": "Colombian Peso",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "co"
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rican Colón",
+    "symbol": "₡",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cr"
+  },
+  {
+    "code": "CUP",
+    "name": "Cuban Peso",
+    "symbol": "₱",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cu"
+  },
+  {
+    "code": "CVE",
+    "name": "Cape Verdean Escudo",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cv"
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "symbol": "Kč",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cz"
+  },
+  {
+    "code": "DJF",
+    "name": "Djiboutian Franc",
+    "symbol": "Fdj",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "dj"
+  },
+  {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "symbol": "kr",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "dk"
+  },
+  {
+    "code": "DOP",
+    "name": "Dominican Peso",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "do"
+  },
+  {
+    "code": "EGP",
+    "name": "Egyptian Pound",
+    "symbol": "ج.م",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "eg"
+  },
+  {
+    "code": "ERN",
+    "name": "Eritrean Nakfa",
+    "symbol": "Nkf",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "er"
+  },
+  {
+    "code": "ETB",
+    "name": "Ethiopian Birr",
+    "symbol": "Br",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "et"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "eu"
+  },
+  {
+    "code": "FJD",
+    "name": "Fijian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "fj"
+  },
+  {
+    "code": "FKP",
+    "name": "Falkland Islands Pound",
+    "symbol": "£",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "fk"
+  },
+  {
+    "code": "FOK",
+    "name": "Faroese Króna",
+    "symbol": "kr",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "fo"
+  },
+  {
+    "code": "GBP",
+    "name": "Pound Sterling",
+    "symbol": "£",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gb"
+  },
+  {
+    "code": "GEL",
+    "name": "Georgian Lari",
+    "symbol": "₾",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ge"
+  },
+  {
+    "code": "GHS",
+    "name": "Ghanaian Cedi",
+    "symbol": "₵",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gh"
+  },
+  {
+    "code": "GIP",
+    "name": "Gibraltar Pound",
+    "symbol": "£",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gi"
+  },
+  {
+    "code": "GMD",
+    "name": "Gambian Dalasi",
+    "symbol": "D",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gm"
+  },
+  {
+    "code": "GNF",
+    "name": "Guinean Franc",
+    "symbol": "FG",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gn"
+  },
+  {
+    "code": "GTQ",
+    "name": "Guatemalan Quetzal",
+    "symbol": "Q",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gt"
+  },
+  {
+    "code": "GYD",
+    "name": "Guyanese Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gy"
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "hk"
+  },
+  {
+    "code": "HNL",
+    "name": "Honduran Lempira",
+    "symbol": "L",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "hn"
+  },
+  {
+    "code": "HRK",
+    "name": "Croatian Kuna",
+    "symbol": "kn",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "hr"
+  },
+  {
+    "code": "HTG",
+    "name": "Haitian Gourde",
+    "symbol": "G",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ht"
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "symbol": "Ft",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "hu"
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "symbol": "Rp",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "id"
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli New Shekel",
+    "symbol": "₪",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "il"
+  },
+  {
+    "code": "IMP",
+    "name": "Isle of Man Pound",
+    "symbol": "£",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "im"
+  },
+  {
+    "code": "INR",
+    "name": "Indian Rupee",
+    "symbol": "₹",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "in"
+  },
+  {
+    "code": "IQD",
+    "name": "Iraqi Dinar",
+    "symbol": "ع.د",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "iq"
+  },
+  {
+    "code": "IRR",
+    "name": "Iranian Rial",
+    "symbol": "﷼",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ir"
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic Króna",
+    "symbol": "kr",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "is"
+  },
+  {
+    "code": "JMD",
+    "name": "Jamaican Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "jm"
+  },
+  {
+    "code": "JOD",
+    "name": "Jordanian Dinar",
+    "symbol": "د.أ",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "jo"
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "symbol": "¥",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "jp"
+  },
+  {
+    "code": "KES",
+    "name": "Kenyan Shilling",
+    "symbol": "KSh",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ke"
+  },
+  {
+    "code": "KGS",
+    "name": "Kyrgystani Som",
+    "symbol": "с",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "kg"
+  },
+  {
+    "code": "KHR",
+    "name": "Cambodian Riel",
+    "symbol": "៛",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "kh"
+  },
+  {
+    "code": "KID",
+    "name": "Kiribati Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ki"
+  },
+  {
+    "code": "KMF",
+    "name": "Comorian Franc",
+    "symbol": "CF",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "km"
+  },
+  {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "symbol": "₩",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "kr"
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "symbol": "د.ك",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "kw"
+  },
+  {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ky"
+  },
+  {
+    "code": "KZT",
+    "name": "Kazakhstani Tenge",
+    "symbol": "₸",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "kz"
+  },
+  {
+    "code": "LAK",
+    "name": "Lao Kip",
+    "symbol": "₭",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "la"
+  },
+  {
+    "code": "LBP",
+    "name": "Lebanese Pound",
+    "symbol": "ل.ل",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "lb"
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "symbol": "Rs",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "lk"
+  },
+  {
+    "code": "LRD",
+    "name": "Liberian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "lr"
+  },
+  {
+    "code": "LSL",
+    "name": "Lesotho Loti",
+    "symbol": "L",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ls"
+  },
+  {
+    "code": "LYD",
+    "name": "Libyan Dinar",
+    "symbol": "د.ل",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ly"
+  },
+  {
+    "code": "MAD",
+    "name": "Moroccan Dirham",
+    "symbol": "د.م.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ma"
+  },
+  {
+    "code": "MDL",
+    "name": "Moldovan Leu",
+    "symbol": "lei",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "md"
+  },
+  {
+    "code": "MGA",
+    "name": "Malagasy Ariary",
+    "symbol": "Ar",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mg"
+  },
+  {
+    "code": "MKD",
+    "name": "Macedonian Denar",
+    "symbol": "ден",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mk"
+  },
+  {
+    "code": "MMK",
+    "name": "Myanmar Kyat",
+    "symbol": "Ks",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mm"
+  },
+  {
+    "code": "MNT",
+    "name": "Mongolian Tugrik",
+    "symbol": "₮",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mn"
+  },
+  {
+    "code": "MOP",
+    "name": "Macanese Pataca",
+    "symbol": "MOP$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mo"
+  },
+  {
+    "code": "MRU",
+    "name": "Mauritanian Ouguiya",
+    "symbol": "UM",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mr"
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritian Rupee",
+    "symbol": "₨",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mu"
+  },
+  {
+    "code": "MVR",
+    "name": "Maldivian Rufiyaa",
+    "symbol": "Rf",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mv"
+  },
+  {
+    "code": "MWK",
+    "name": "Malawian Kwacha",
+    "symbol": "MK",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mw"
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mx"
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "symbol": "RM",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "my"
+  },
+  {
+    "code": "MZN",
+    "name": "Mozambican Metical",
+    "symbol": "MT",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "mz"
+  },
+  {
+    "code": "NAD",
+    "name": "Namibian Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "na"
+  },
+  {
+    "code": "NGN",
+    "name": "Nigerian Naira",
+    "symbol": "₦",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ng"
+  },
+  {
+    "code": "NIO",
+    "name": "Nicaraguan Córdoba",
+    "symbol": "C$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ni"
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "symbol": "kr",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "no"
+  },
+  {
+    "code": "NPR",
+    "name": "Nepalese Rupee",
+    "symbol": "Rs",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "np"
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "nz"
+  },
+  {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "symbol": "ر.ع.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "om"
+  },
+  {
+    "code": "PAB",
+    "name": "Panamanian Balboa",
+    "symbol": "B/.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "pa"
+  },
+  {
+    "code": "PEN",
+    "name": "Peruvian Nuevo Sol",
+    "symbol": "S/.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "pe"
+  },
+  {
+    "code": "PGK",
+    "name": "Papua New Guinean Kina",
+    "symbol": "K",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "pg"
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "symbol": "₱",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ph"
+  },
+  {
+    "code": "PKR",
+    "name": "Pakistani Rupee",
+    "symbol": "₨",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "pk"
+  },
+  {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "symbol": "zł",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "pl"
+  },
+  {
+    "code": "PYG",
+    "name": "Paraguayan Guarani",
+    "symbol": "₲",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "py"
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari Rial",
+    "symbol": "ر.ق",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "qa"
+  },
+  {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "symbol": "lei",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ro"
+  },
+  {
+    "code": "RSD",
+    "name": "Serbian Dinar",
+    "symbol": "дин.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "rs"
+  },
+  {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "symbol": "₽",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ru"
+  },
+  {
+    "code": "RWF",
+    "name": "Rwandan Franc",
+    "symbol": "FRw",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "rw"
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Riyal",
+    "symbol": "ر.س",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sa"
+  },
+  {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sb"
+  },
+  {
+    "code": "SCR",
+    "name": "Seychellois Rupee",
+    "symbol": "₨",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sc"
+  },
+  {
+    "code": "SDG",
+    "name": "Sudanese Pound",
+    "symbol": "ج.س.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sd"
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "symbol": "kr",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "se"
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sg"
+  },
+  {
+    "code": "SHP",
+    "name": "Saint Helena Pound",
+    "symbol": "£",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sh"
+  },
+  {
+    "code": "SLL",
+    "name": "Sierra Leonean Leone",
+    "symbol": "Le",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sl"
+  },
+  {
+    "code": "SOS",
+    "name": "Somali Shilling",
+    "symbol": "Sh",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "so"
+  },
+  {
+    "code": "SRD",
+    "name": "Surinamese Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sr"
+  },
+  {
+    "code": "SSP",
+    "name": "South Sudanese Pound",
+    "symbol": "£",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ss"
+  },
+  {
+    "code": "STN",
+    "name": "São Tomé and Príncipe Dobra",
+    "symbol": "Db",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "st"
+  },
+  {
+    "code": "SYP",
+    "name": "Syrian Pound",
+    "symbol": "ل.س",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sy"
+  },
+  {
+    "code": "SZL",
+    "name": "Swazi Lilangeni",
+    "symbol": "E",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "sz"
+  },
+  {
+    "code": "THB",
+    "name": "Thai Baht",
+    "symbol": "฿",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "th"
+  },
+  {
+    "code": "TJS",
+    "name": "Tajikistani Somoni",
+    "symbol": "ЅМ",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tj"
+  },
+  {
+    "code": "TMT",
+    "name": "Turkmenistani Manat",
+    "symbol": "m",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tm"
+  },
+  {
+    "code": "TND",
+    "name": "Tunisian Dinar",
+    "symbol": "د.ت",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tn"
+  },
+  {
+    "code": "TOP",
+    "name": "Tongan Paʻanga",
+    "symbol": "T$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "to"
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "symbol": "₺",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tr"
+  },
+  {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tt"
+  },
+  {
+    "code": "TVD",
+    "name": "Tuvaluan Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tv"
+  },
+  {
+    "code": "TZS",
+    "name": "Tanzanian Shilling",
+    "symbol": "TSh",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "tz"
+  },
+  {
+    "code": "UAH",
+    "name": "Ukrainian Hryvnia",
+    "symbol": "₴",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ua"
+  },
+  {
+    "code": "UGX",
+    "name": "Ugandan Shilling",
+    "symbol": "USh",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ug"
+  },
+  {
+    "code": "USD",
+    "name": "United States Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "us"
+  },
+  {
+    "code": "UYU",
+    "name": "Uruguayan Peso",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "uy"
+  },
+  {
+    "code": "UZS",
+    "name": "Uzbekistani Som",
+    "symbol": "лв",
+    "exchange_rate": 1,
+    "is_default": true,
+    "country": "uz"
+  },
+  {
+    "code": "VES",
+    "name": "Venezuelan Bolívar Soberano",
+    "symbol": "Bs.S.",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ve"
+  },
+  {
+    "code": "VND",
+    "name": "Vietnamese Dong",
+    "symbol": "₫",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "vn"
+  },
+  {
+    "code": "VUV",
+    "name": "Vanuatu Vatu",
+    "symbol": "Vt",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "vu"
+  },
+  {
+    "code": "WST",
+    "name": "Samoan Tala",
+    "symbol": "SAT",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ws"
+  },
+  {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "symbol": "FCFA",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "cf"
+  },
+  {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "gd"
+  },
+  {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "symbol": "CFA",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "bj"
+  },
+  {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "symbol": "₣",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "pf"
+  },
+  {
+    "code": "YER",
+    "name": "Yemeni Rial",
+    "symbol": "ر.ي",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "ye"
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "symbol": "R",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "za"
+  },
+  {
+    "code": "ZMW",
+    "name": "Zambian Kwacha",
+    "symbol": "ZK",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "zm"
+  },
+  {
+    "code": "ZWL",
+    "name": "Zimbabwean Dollar",
+    "symbol": "$",
+    "exchange_rate": 1,
+    "is_default": false,
+    "country": "zw"
+  }
+]
